@@ -1,0 +1,6 @@
+D:\project\smtp\x64\Debug\smtp.exe
+C:\Users\Dell\Documents\Tencent Files\2803794751\FileRecv\smtp\smtp\x64\Debug\smtp.exe
+C:\Users\Dell\Desktop\email系统图形化界面\smtp\x64\Debug\smtp.exe
+C:\Users\Dell\Desktop\email系统图形化界面\smtp\x64\Debug\smtp.vcxproj.CopyComplete
+C:\Users\Dell\Desktop\email系统图形化界面\smtp\x64\Debug\libssl-3-x64.dll
+C:\Users\Dell\Desktop\email系统图形化界面\smtp\x64\Debug\libcrypto-3-x64.dll
